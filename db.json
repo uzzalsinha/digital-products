@@ -10,7 +10,7 @@
     },
     {
       "id": "2",
-      "name": "Smartwatch",
+      "name": "Tablet",
       "description": "Waterproof smartwatch with fitness tracking, heart rate monitor, and GPS.",
       "price": 129.99,
       "category": "Electronics",
@@ -18,11 +18,19 @@
     },
     {
       "id": "3",
-      "name": "Smartwatch",
+      "name": "Camera",
       "description": "Waterproof smartwatch with fitness tracking, heart rate monitor, and GPS.",
       "price": 129.99,
       "category": "Electronics",
-      "img": "https://i.ibb.co/zngP4cB/phone.jpg"
+      "img": "https://ibb.co/brfF0R4"
+    },
+    {
+      "id": "4",
+      "name": "Laptop",
+      "description": "This is computer",
+      "price": "18",
+      "category": "digital",
+      "img": "https://ibb.co/GFwJTcz"
     }
   ]
 }
