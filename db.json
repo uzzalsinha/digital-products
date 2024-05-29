@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Smartwatch",
+      "description": "Waterproof smartwatch with fitness tracking, heart rate monitor, and GPS.",
+      "price": 129.99,
+      "category": "Electronics",
+      "img": "https://i.ibb.co/Yj1K1GH/daniel-korpai-w-W7-Xb-WYoq-K8-unsplash.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Smartwatch",
+      "description": "Waterproof smartwatch with fitness tracking, heart rate monitor, and GPS.",
+      "price": 129.99,
+      "category": "Electronics",
+      "img": "https://i.ibb.co/zngP4cB/phone.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Smartwatch",
+      "description": "Waterproof smartwatch with fitness tracking, heart rate monitor, and GPS.",
+      "price": 129.99,
+      "category": "Electronics",
+      "img": "https://i.ibb.co/zngP4cB/phone.jpg"
+    }
+  ]
+}
