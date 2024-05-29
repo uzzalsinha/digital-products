@@ -22,7 +22,7 @@
       "description": "Waterproof smartwatch with fitness tracking, heart rate monitor, and GPS.",
       "price": 129.99,
       "category": "Electronics",
-      "img": "https://ibb.co/brfF0R4"
+      "img": "https://i.ibb.co/fCc9gG3/photo.jpg"
     },
     {
       "id": "4",
@@ -30,7 +30,7 @@
       "description": "This is computer",
       "price": "18",
       "category": "digital",
-      "img": "https://ibb.co/GFwJTcz"
+      "img": "https://i.ibb.co/m8jhLHh/cyber.jpg"
     }
   ]
 }
