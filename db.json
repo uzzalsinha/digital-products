@@ -31,6 +31,14 @@
       "price": "18",
       "category": "digital",
       "img": "https://i.ibb.co/m8jhLHh/cyber.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Robot",
+      "description": "this is Robot",
+      "price": "960",
+      "category": "Fiction",
+      "img": "https://i.ibb.co/3p8q7Bf/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
     }
   ]
 }

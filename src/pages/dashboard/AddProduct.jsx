@@ -12,12 +12,14 @@ const AddProduct = () => {
         const price = form.price.value;
         const category = form.category.value;
         const description = form.description.value;
+        const img = form.img.value;
         const productData = {
             id, 
             name, 
             description,
             price, 
-            category
+            category,
+            img
             
         }
         await axios.post("http://localhost:3000/products", productData)
@@ -54,6 +56,13 @@ const AddProduct = () => {
                  <div>
                  <label htmlFor="">Description</label>
                     <textarea type="text" name="description" className="w-full py-3 px-5 border"/>
+                 </div>
+                 <div>
+                 <div>
+                   <label htmlFor="">Image</label>
+                    <input type="text" name="img" className="w-full py-3 px-5 border"/>
+                   </div>
+
                  </div>
 
                    

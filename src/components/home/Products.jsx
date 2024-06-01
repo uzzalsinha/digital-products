@@ -27,10 +27,10 @@ const Products = ({ data }) => {
           </div>
       <h1 className="my-5 text-2xl font-bold text-center">Our Products</h1>
 
-      <div className="flex gap-2 px-6 justify-center items-center ">
+      <div className="grid grid-cols-3 gap-2 px-6 justify-center items-center mt-3 ">
         {
           // eslint-disable-next-line react/prop-types
-          data.slice(0, 3).map((product) => (
+          data.map((product) => (
             <SingleProduct key={product.id} product={product} />
           ))
         }
